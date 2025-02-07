@@ -2,7 +2,7 @@
 
 ## Overview
 
-The City-Wide Epidemic Prediction and Hospital Bed Management System is a full-scale solution
+The City-Wide Epidemic Prediction and Hospital Bed Management System("locoheth" is the name of the application) is a full-scale solution
  built to streamline hospital operations and enhance resource management, especially during times of
  crisis like epidemics. The system targets key inefficiencies in hospitals, such as lengthy patient
  registration processes, overcrowded OPD queues, and improper bed allocation, offering a modern,
@@ -22,7 +22,8 @@ The City-Wide Epidemic Prediction and Hospital Bed Management System is a full-s
  efficiently. This predictive capability is crucial in preventing overcrowding and ensuring that patients
  receive timely care during peak periods. Additionally, it provides hospitals with early warnings,
  allowing them to adjust staffing levels and medical supplies accordingly. This proactive approach
- enhances overall hospital readiness and response in crisis situations.
+ enhances overall hospital readiness and response in crisis situations(ML integration in the application should be 
+improved more to have a expected outcome).
 
 
 The system also offers real-time insights into hospital resources, such as bed availability, which allows
@@ -55,7 +56,12 @@ The system also offers real-time insights into hospital resources, such as bed a
  ● Improved Staff Workload Management
  ● Enhanced Patient Safety and Quality of Care
 
- ## Project Diagram
+ ## Project Diagram:
 
  ![image](https://github.com/user-attachments/assets/abd636fe-f3e5-4e2e-b73a-5bb79cf951f7)
+
+# Conclusion:
+This is the quick overview of my application"Locoheth",in this application I have included the necessary 
+pages and to access the Hospital,Doctor and the Patient accounts using their own access credentials.
+https://youtu.be/AQfbl9nsLr8?si=uKJc1o-tWrmae70f
 
