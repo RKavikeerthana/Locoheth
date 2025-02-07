@@ -65,3 +65,7 @@ This is the quick overview of my application"Locoheth",in this application I hav
 pages and to access the Hospital,Doctor and the Patient accounts using their own access credentials.
 https://youtu.be/AQfbl9nsLr8?si=uKJc1o-tWrmae70f
 
+To join hands with me to develop this application or have queries reach out to 
+www.linkedin.com/in/bharath-k-914140229  (or)
+bharathwork12311@gmail.com
+
