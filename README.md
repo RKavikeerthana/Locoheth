@@ -54,3 +54,8 @@ The system also offers real-time insights into hospital resources, such as bed a
  ● Better Data-Driven Decision Making
  ● Improved Staff Workload Management
  ● Enhanced Patient Safety and Quality of Care
+
+ ## Project Diagram
+
+ ![image](https://github.com/user-attachments/assets/abd636fe-f3e5-4e2e-b73a-5bb79cf951f7)
+
